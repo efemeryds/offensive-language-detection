@@ -109,13 +109,6 @@ print("DONE")
 
 
 
-# TASK 4
-
-# subwords
-
-
-
-
 
 
 
