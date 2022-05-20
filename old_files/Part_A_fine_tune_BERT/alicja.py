@@ -9,8 +9,8 @@ import random
 
 # Class label, Number of instances, Relative label, frequency (%), Example tweet with this label
 
-train_data = pd.read_csv("../data/olid-train.csv", sep=',')
-test_data = pd.read_csv("../data/olid-test.csv", sep=',')
+train_data = pd.read_csv("../../data/olid-train.csv", sep=',')
+test_data = pd.read_csv("../../data/olid-test.csv", sep=',')
 
 print(train_data['labels'].unique())
 
